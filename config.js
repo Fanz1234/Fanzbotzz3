@@ -1,8 +1,8 @@
 /**
-   * Create By Dika Ardnt.
-   * Recode By Naze Dev && Papah-Chan
-   * Contact Me on wa.me/6282287219167
-   * Follow https://github.com/FahriAdison
+   * Create By Fanz
+   * Recode By Fanz-411
+   * Contact Me on wa.me/6285812373011
+   * Follow https://github.com/Fanz1234
 */
 
 const fs = require('fs')
@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285172446692']
-global.ownernomer = "6285172446692"
-global.premium = ['6285172446692']
+global.owner = ['6285812373011']
+global.ownernomer = "6285812373011"
+global.premium = ['6285812373011']
 global.packname = 'Sticker By'
-global.author = 'Sad-Bot'
+global.author = 'FanzBotzz'
 global.sessionName = 'session'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -59,15 +59,15 @@ global.thumb = fs.readFileSync('./media/image/papah.jpg')
 global.faall = fs.readFileSync('./media/image/menu.jpg')
 
 // Url
-global.mygit = 'https://github.com/FahriAdison'
-global.myyt = 'https://bit.ly/Papah-Chan'
+global.mygit = ''
+global.myyt = ''
 global.myytv = ''
 global.mygc = ""
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'SAD BOT'
-global.akulaku = 'Bot By Papah'
-global.ytname = 'YT PAPAH' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.botname = 'FanzBotzz'
+global.akulaku = 'Bot Fanz-411'
+global.ytname = '' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
 let file = require.resolve(__filename)
