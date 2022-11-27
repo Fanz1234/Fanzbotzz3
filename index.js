@@ -1,8 +1,8 @@
 /**
-   * Create By Dika Ardnt.
-   * Recode By papah Dev && Papah-Chan 
-   * Contact Me on wa.me/6282287219167
-   * Follow https://github.com/FahriAdison
+   * Create By Fanz.
+   * Recode By Fanz-411
+   * Contact Me on wa.me/6285812373011
+   * Follow https://github.com/Fanz1234
 */
 
 require('./config')
