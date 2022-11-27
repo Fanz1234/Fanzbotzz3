@@ -66,7 +66,7 @@ global.mygc = ""
 
 // Engak Ngaruh, Belum Kepasang
 global.botname = 'FanzBotzz'
-global.akulaku = 'Bot Fanz-411'
+global.akulaku = 'FanzBotzz'
 global.ytname = '' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
